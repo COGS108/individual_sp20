@@ -2,9 +2,9 @@
 
 This is the repo we'll use for your final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and classmates who have chosen to complete the individual project; it is not visible to anyone else.
+This repository is public.
 
-This repository will be frozen on the final project due date: 11:59pm on Wednesday, June 10th. No further changes can be made after that time.
+This repository will be frozen on the final project due date: 11:59pm on Wednesday, June 10th. No further changes can be made after that time. All pull requests must be made prior to deadline.
 
 Your project proposal and final project will be graded based solely on the corresponding project notebook in this repository.
 
